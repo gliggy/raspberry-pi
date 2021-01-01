@@ -14,5 +14,5 @@ a cli timelapse program
 a program to make a led blink with the gpio pins
 
 <div>
-<img src="https://i0.wp.com/electronicshobbyists.com/wp-content/uploads/2017/10/d-articles-electronicshobbyists-raspberry-pi-new.png" alt=diagram width=384 height =435>
+<img src="https://i0.wp.com/electronicshobbyists.com/wp-content/uploads/2017/10/d-articles-electronicshobbyists-raspberry-pi-new.png" alt=diagram width="384" height ="435">
 </div>
